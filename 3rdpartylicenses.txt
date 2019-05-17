@@ -81,6 +81,9 @@ MIT
 @aspnet/signalr
 Apache-2.0
 
+@ngxs/router-plugin
+MIT
+
 @ngxs/store
 MIT
 
