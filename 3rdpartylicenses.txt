@@ -65,6 +65,8 @@ THE SOFTWARE.
 
 @angular/material/button
 
+@angular/material/menu
+
 @angular/material/sidenav
 
 @angular/material/snack-bar
