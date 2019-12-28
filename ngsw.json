@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1558913147472,
+  "timestamp": 1577495539083,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -9,10 +9,13 @@
       "updateMode": "prefetch",
       "urls": [
         "/index.html",
-        "/main.01e305accc8e54f61c36.js",
-        "/polyfills.28f5732042f66288c3dc.js",
-        "/runtime.26209474bfa8dc87a77c.js",
-        "/styles.8fa74924d24a960acc49.css"
+        "/main-es2015.769cf20246cbb59ddd75.js",
+        "/main-es5.769cf20246cbb59ddd75.js",
+        "/polyfills-es2015.c7374b2cba66b516b2f2.js",
+        "/polyfills-es5.6ec2ce9518990a8b4f1c.js",
+        "/runtime-es2015.85f895af57b038f1e5b4.js",
+        "/runtime-es5.85f895af57b038f1e5b4.js",
+        "/styles.3b69dffd569f17b74027.css"
       ],
       "patterns": []
     },
@@ -65,11 +68,14 @@
     "/assets/icons/mstile-310x310.png": "e34921f5408297947474db452b93ca7759995eb0",
     "/assets/icons/mstile-70x70.png": "413a5985b662bcf953b16118aa042a7fe7815222",
     "/assets/icons/safari-pinned-tab.svg": "76d37832f9afc33b06ab49084c39042dcfe4f56a",
-    "/index.html": "40934ead992bbec8e98e6c09e13e3a90369e8ebb",
-    "/main.01e305accc8e54f61c36.js": "0918be23b85adb549a2098565eb42e7a0af29a53",
-    "/polyfills.28f5732042f66288c3dc.js": "0b9299d22fd36b67b57d49309383240c0b25abdb",
-    "/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "/styles.8fa74924d24a960acc49.css": "f760beba336c2c3804ad8ecc2d9cfdcccc7a0c63"
+    "/index.html": "d669d05118c39ded3cb6b06a1909ce76c54e82d3",
+    "/main-es2015.769cf20246cbb59ddd75.js": "daf317aa495c450d75647dc0f2963e008b87efda",
+    "/main-es5.769cf20246cbb59ddd75.js": "d0c4b82ba14c07290b3a3c9a8cbe25569091a887",
+    "/polyfills-es2015.c7374b2cba66b516b2f2.js": "7a444beedb4e88f425cf21d61cd90ade84b7853d",
+    "/polyfills-es5.6ec2ce9518990a8b4f1c.js": "0b0d768b612c03df7f9a1739fd604ccb1174e2a5",
+    "/runtime-es2015.85f895af57b038f1e5b4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/runtime-es5.85f895af57b038f1e5b4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/styles.3b69dffd569f17b74027.css": "90b901151855b2839b9bb037bae3f8a6f3695162"
   },
   "navigationUrls": [
     {
