@@ -1,0 +1,98 @@
+{
+  "configVersion": 1,
+  "timestamp": 1577495539083,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/index.html",
+        "/main-es2015.769cf20246cbb59ddd75.js",
+        "/main-es5.769cf20246cbb59ddd75.js",
+        "/polyfills-es2015.c7374b2cba66b516b2f2.js",
+        "/polyfills-es5.6ec2ce9518990a8b4f1c.js",
+        "/runtime-es2015.85f895af57b038f1e5b4.js",
+        "/runtime-es5.85f895af57b038f1e5b4.js",
+        "/styles.3b69dffd569f17b74027.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/icons/apple-touch-icon.png",
+        "/assets/icons/browserconfig.xml",
+        "/assets/icons/favicon-16x16.png",
+        "/assets/icons/favicon-32x32.png",
+        "/assets/icons/favicon.ico",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/icons/mstile-144x144.png",
+        "/assets/icons/mstile-150x150.png",
+        "/assets/icons/mstile-310x150.png",
+        "/assets/icons/mstile-310x310.png",
+        "/assets/icons/mstile-70x70.png",
+        "/assets/icons/safari-pinned-tab.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/apple-touch-icon.png": "393342b13357cd84858acda374543f935a193568",
+    "/assets/icons/browserconfig.xml": "435f738572698e194c192d00ec31a1c405530cf3",
+    "/assets/icons/favicon-16x16.png": "b7f789092b07feaf91117c522f6a8775ac38a923",
+    "/assets/icons/favicon-32x32.png": "24aaa1b7e1433566e960ed1e9b264b77f8d963b9",
+    "/assets/icons/favicon.ico": "b5108891db1380ba28c258fa44bb38cdd42daa1f",
+    "/assets/icons/icon-128x128.png": "8498c0691e9cb3c927abc4b1f1a404b584f6a050",
+    "/assets/icons/icon-144x144.png": "f18eaadb0ca668d18d07d0f61627f427642ee327",
+    "/assets/icons/icon-152x152.png": "8d7f0abc1d0d79f96eb72bf6d4b384480ef09ee4",
+    "/assets/icons/icon-192x192.png": "6e09013bebd225a84c26fe59974fea4bd4365755",
+    "/assets/icons/icon-384x384.png": "ddc1be4a6737e226096d029c3f50b35a3d52b8a9",
+    "/assets/icons/icon-512x512.png": "a1f0e2a8fdb683e37e50f1b09d725a6e1ba5a82c",
+    "/assets/icons/icon-72x72.png": "9da7253dff8431eae755a206af802217e9d30c26",
+    "/assets/icons/icon-96x96.png": "949ce9912cb945ef37d6c9b24ca26323d9e5433a",
+    "/assets/icons/mstile-144x144.png": "908a21e1ccbd7b09b5d7c7cef2f7e726037a646e",
+    "/assets/icons/mstile-150x150.png": "755387601bf92f9ec38b7f866199717059503285",
+    "/assets/icons/mstile-310x150.png": "7b6853cf49094e76a41ab9cd69370a7265d83680",
+    "/assets/icons/mstile-310x310.png": "e34921f5408297947474db452b93ca7759995eb0",
+    "/assets/icons/mstile-70x70.png": "413a5985b662bcf953b16118aa042a7fe7815222",
+    "/assets/icons/safari-pinned-tab.svg": "76d37832f9afc33b06ab49084c39042dcfe4f56a",
+    "/index.html": "d669d05118c39ded3cb6b06a1909ce76c54e82d3",
+    "/main-es2015.769cf20246cbb59ddd75.js": "daf317aa495c450d75647dc0f2963e008b87efda",
+    "/main-es5.769cf20246cbb59ddd75.js": "d0c4b82ba14c07290b3a3c9a8cbe25569091a887",
+    "/polyfills-es2015.c7374b2cba66b516b2f2.js": "7a444beedb4e88f425cf21d61cd90ade84b7853d",
+    "/polyfills-es5.6ec2ce9518990a8b4f1c.js": "0b0d768b612c03df7f9a1739fd604ccb1174e2a5",
+    "/runtime-es2015.85f895af57b038f1e5b4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/runtime-es5.85f895af57b038f1e5b4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/styles.3b69dffd569f17b74027.css": "90b901151855b2839b9bb037bae3f8a6f3695162"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
